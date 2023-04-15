@@ -1,2 +1,0 @@
-# createcv
-using html css
